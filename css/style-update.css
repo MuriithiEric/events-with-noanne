@@ -1999,7 +1999,7 @@ header.smaller.header-scroll:not(.autoshow) {
 }
 
 .p-tagline {
-  color: #111111;
+  color: #ff8c00;
   position: absolute;
   z-index: 1;
   top: 20px;
@@ -2613,7 +2613,7 @@ header.smaller.header-scroll:not(.autoshow) {
   width: 100%;
 }
 .product a.btn-line:hover {
-  color: #111111 !important;
+  color: #ff8c00 !important;
 }
 .product:hover .pi-2 {
   opacity: 1;
@@ -2638,7 +2638,7 @@ header.smaller.header-scroll:not(.autoshow) {
 }
 .de_light .p-single .price {
   margin-bottom: 10px;
-  color: #111111;
+  color: #ff8c00;
   font-size: 20px;
   font-weight: bold;
   padding: 5px 0;
@@ -2652,7 +2652,7 @@ header.smaller.header-scroll:not(.autoshow) {
   padding-left: 20px;
 }
 .de_light .p-single a.btn-line:hover {
-  color: #111111;
+  color: #ff8c00;
 }
 
 .de-stars i {
@@ -2740,7 +2740,7 @@ header.smaller.header-scroll:not(.autoshow) {
 }
 
 .de_light #contact_form ::placeholder {
-  color: #111111;
+  color: #ff8c00;
   opacity: 1;
 }
 
@@ -2785,7 +2785,7 @@ header.smaller.header-scroll:not(.autoshow) {
 
 #form_coupon input[type="text"]:focus {
   background: #ffffff;
-  color: #111111;
+  color: #ff8c00;
 }
 
 #form_subscribe input[type="text"] {
@@ -2811,7 +2811,7 @@ header.smaller.header-scroll:not(.autoshow) {
   width: 20%;
   height: 38px;
   background: #171a21;
-  color: #111111;
+  color: #ff8c00;
   display: table-cell;
   padding: 10px 0 5px 0;
   border-radius: 0 2px 2px 0;
@@ -2909,7 +2909,7 @@ footer.light #form_subscribe input[type="text"] {
   border-left: solid 1px #dddddd;
 }
 .f-num-inc span:hover {
-  color: #111111;
+  color: #ff8c00;
 }
 
 /* Chrome, Safari, Edge, Opera */
@@ -3353,21 +3353,21 @@ a.btn-line-white,
 
 a.btn-line-white:hover {
   background: #fff;
-  color: #111111;
+  color: #ff8c00;
 }
 
 a.btn-line.black,
 a.btn-line.black:hover {
-  border-color: #111111;
-  color: #111111;
+  border-color: #ff8c00;
+  color: #ff8c00;
 }
 a.btn-line.black:hover {
   color: #ffffff;
-  background: #111111;
+  background: #ff8c00;
 }
 a.btn-line.black:after,
 .de_light a.btn-line.black:after {
-  color: #111111;
+  color: #ff8c00;
 }
 a.btn-line.black:hover:after {
   color: #ffffff;
@@ -4604,7 +4604,7 @@ footer.light h6,
 }
 
 .pagination li.active a {
-  color: #111111;
+  color: #ff8c00;
 }
 
 .pagination.s2 {
@@ -5044,11 +5044,11 @@ footer.light .social-icons i {
 .social-icons i:hover {
   background: #fff;
   border-color: #eceff3;
-  color: #111111;
+  color: #ff8c00;
 }
 
 .social-icons.light i {
-  color: #111111;
+  color: #ff8c00;
 }
 
 .social-icons-s1 i {
@@ -7596,7 +7596,7 @@ h2.slide-title {
 .de__banner h4 {
   display: inline-block;
   text-align: center;
-  background: #111111;
+  background: #ff8c00;
   font-size: 12px;
   letter-spacing: 0.1em;
   padding: 5px 10px;
@@ -9327,7 +9327,7 @@ section.no-padding {
   padding-top: 0px;
   height: 32px;
   margin-top: 20px;
-  color: #111111;
+  color: #ff8c00;
   text-transform: uppercase;
   letter-spacing: 5px;
 }
