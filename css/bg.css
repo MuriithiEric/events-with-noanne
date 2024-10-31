@@ -12,7 +12,8 @@
 
 /* general  for subheader */
 #subheader {
-  background: url(../images/background/subheader.jpg) top fixed;
+  background: url(https://images.pexels.com/photos/3369569/pexels-photo-3369569.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+    top fixed;
 }
 
 /* background settings for page subheader */
@@ -238,13 +239,13 @@
 
 /* services section side background */
 #section-service-1.side-bg .background-image {
-  background: url(../images/background/bg-service-1.jpg);
+  background: url(../02_images-webstudio/services/1.jpg);
 }
 #section-service-2.side-bg .background-image {
-  background: url(../images/background/bg-service-2.jpg);
+  background: url(../02_images-webstudio/services/2.jpg);
 }
 #section-service-3.side-bg .background-image {
-  background: url(../images/background/bg-service-3.jpg);
+  background: url(../02_images-webstudio/services/3.jpg);
 }
 #section-service-4.side-bg .background-image {
   background: url(../images/background/bg-service-4.jpg);
